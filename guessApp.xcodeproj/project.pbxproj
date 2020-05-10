@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		17C3839E246801DF0002DC28 /* trivia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C3839D246801DF0002DC28 /* trivia.swift */; };
 		17E3530324668AAD00BA11A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E3530224668AAD00BA11A0 /* AppDelegate.swift */; };
 		17E3530524668AAD00BA11A0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E3530424668AAD00BA11A0 /* SceneDelegate.swift */; };
 		17E3530724668AAD00BA11A0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E3530624668AAD00BA11A0 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		17C3839D246801DF0002DC28 /* trivia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trivia.swift; sourceTree = "<group>"; };
 		17E352FF24668AAD00BA11A0 /* guessApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = guessApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17E3530224668AAD00BA11A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		17E3530424668AAD00BA11A0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				17E3530224668AAD00BA11A0 /* AppDelegate.swift */,
 				17E3530424668AAD00BA11A0 /* SceneDelegate.swift */,
 				17E3530624668AAD00BA11A0 /* ViewController.swift */,
+				17C3839D246801DF0002DC28 /* trivia.swift */,
 				17E3530824668AAD00BA11A0 /* Main.storyboard */,
 				17E3530B24668AAF00BA11A0 /* Assets.xcassets */,
 				17E3530D24668AAF00BA11A0 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				17E3530724668AAD00BA11A0 /* ViewController.swift in Sources */,
 				17E3530324668AAD00BA11A0 /* AppDelegate.swift in Sources */,
+				17C3839E246801DF0002DC28 /* trivia.swift in Sources */,
 				17E3530524668AAD00BA11A0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
